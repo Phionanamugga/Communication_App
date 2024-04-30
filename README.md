@@ -1,6 +1,15 @@
-# Communication App Readme
+# Communication App Documentation
 ## Introduction
 Welcome to our communication app! This app provides a platform for users to send messages, share videos, photos, files, location pins, create photo libraries, and pin them up for easy access.
+
+## Table of Contents
+1. Getting Started
+2. Messaging
+3. Media Sharing
+4. Location Sharing
+5. Photo Libraries
+6. Support and Feedback
+7. About Us
 
 ## Features
 1. Messaging
@@ -18,33 +27,35 @@ Pin photo libraries for quick access.
 ## Getting Started
 To start using our communication app, follow these steps:
 
-Download and Install the App: Visit our website or the app store to download and install the app on your device.
+1. Download and Install the App: Visit our website or the app store to download and install the app on your device.
 
-Sign Up or Log In: Create a new account or log in using your existing credentials.
+2. Sign Up or Log In: Create a new account or log in using your existing credentials.
 
-Start Communicating: Explore the app features and start sending messages, sharing media, and creating photo libraries.
+3. Start Communicating: Explore the app features and start sending messages, sharing media, and creating photo libraries.
 
 ## Usage
 
 ### Messaging
-Open the messaging tab.
-Select a contact or create a new chat group.
-Type your message and hit send.
+1. Open the messaging tab.
+2. Select a contact or create a new chat group.
+3. Type your message and hit send.
 
 ### Media Sharing
-Navigate to the media sharing section.
-Choose the type of media you want to share (video, photo, file).
-Select the recipient and upload the media file.
+1. Navigate to the media sharing section.
+2. Choose the type of media you want to share (video, photo, file).
+3. Select the recipient and upload the media file.
 
 ### Location Sharing
-Access the location sharing feature.
-Enable location services on your device.
-Tap on the location pin icon and select a contact to share your location.
+To share your location, follow these steps:
+1. Access the location sharing feature.
+2. Enable location services on your device.
+3. Tap on the location pin icon and select a contact to share your location.
 
 ### Photo Libraries
-Go to the photo libraries section.
-Create a new photo library and add images to it.
-Pin the photo library to access it quickly from the main menu.
+To create a photo library, follow these steps:
+1. Go to the photo libraries section.
+2. Create a new photo library and add images to it.
+3. Pin the photo library to access it quickly from the main menu.
 
 
 ### Support and Feedback
